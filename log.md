@@ -11,10 +11,10 @@
 **Link to work:** [Calculator App](http://www.example.com)
 --->
 
-### Day 0: October 10, 2017 - Tuesday
+### Day 1: January 8th, 2018 - Monday
 
-**Today's Progress**: Started the log, preparing for tomorrow's Day 1.
+**Today's Progress**: Started. Started the React Camper Leaderboard FreeCodeCamp project:[link](https://www.freecodecamp.org/challenges/build-a-camper-leaderboard)
 
-**Thoughts**: Excitement.
+**Thoughts**: Finally, back into it. Something to bite into in 2018.
 
-**Link(s) to work**: Not there yet, it will be on CodePen & here.
+**Link(s) to work**: [React Leaderboard Project](https://github.com/arry14/camper-leaderboard-react)
